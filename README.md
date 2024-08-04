@@ -59,7 +59,6 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 Feel free to reach out if you have any questions or need further assistance:
 - 📧 [Email](mailto:soojal.kumar@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/soojalkumar)
 
 ---
 
