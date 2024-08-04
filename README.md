@@ -58,7 +58,7 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 ## 📞 Contact
 
 Feel free to reach out if you have any questions or need further assistance:
-- 📧 [Email](mailto:soojal.kumar@example.com)
+- 📧 [Email](mailto:soojal.kumar.gangooja@gmail.com)
 
 ---
 
